@@ -1,9 +1,14 @@
 # Binary I/O
+[Presentation](https://github.com/edigerad/binary-io/blob/master/binary%20io.pdf)
+
+[Java Book](https://github.com/edigerad/binary-io/blob/master/Introduction%20to%20Java%20Programming%2C%20Comprehensive%20Version%2C%2010th%20Edition-%20Y.%20Daniel%20Liang.pdf)
 
 InputStream and OutputStream subclasses examples for performing Binary I/O.
 
 
 ##  Objectives
+
+
 
 1. To discover how I/O is processed in Java (§17.2).
 
@@ -58,4 +63,7 @@ InputStream and OutputStream subclasses examples for performing Binary I/O.
    conversion of a Java object into a static stream
    (sequence) of bytes which can then be saved to a
    database or transferred over a network.
+   
+   
+   
     
